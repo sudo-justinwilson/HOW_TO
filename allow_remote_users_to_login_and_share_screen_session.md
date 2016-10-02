@@ -1,5 +1,7 @@
 # Allowing a remote user to SSH into localhost and concurrently share terminal (with a screen session):
 
+## Please ensure to cleanup after...
+
 1. Create a temp home dir for temp user in /tmp:
   * ``` sudo mkdir /tmp/test ```
   
